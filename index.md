@@ -65,3 +65,10 @@ layout: default
 
 　　好了，关于约旦手机卡的絮叨就到这里。希望这份指南能帮你扫清障碍，让壮丽的约旦风景，能通过满格的信号，第一时间分享给你想分享的人。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Jordan eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/jordan-data-plans)
